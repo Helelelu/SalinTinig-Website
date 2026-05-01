@@ -43861,7 +43861,7 @@ p.tN()
 p.xg()}else q.a7(new A.aoZ(q))
 return A.o(null,r)}})
 return A.p($async$xI,r)},
-M(a){var s,r=null,q=A.cD("SALINTINIG",r,r,r,r,A.aAb().$3$color$fontSize$letterSpacing(B.l,42,2),r,r),p=A.cD("Real-time Filipino Translator",r,r,r,r,A.aHX().$3$color$fontSize$letterSpacing(B.l,18,2),B.d_,r),o=A.cD('How to Connect:\n1. Turn on your Salintinig Earphones\n2. Connect your device to "Salintinig Device" via Bluetooth\n3. Tap the button below to connect to the service!',r,r,r,r,A.aHX().$3$color$fontSize$height(B.H,16,1.5),B.c7,r)
+M(a){var s,r=null,q=A.cD("SALINTINIG",r,r,r,r,A.aAb().$3$color$fontSize$letterSpacing(B.l,42,2),r,r),p=A.cD("Real-time Filipino Translator",r,r,r,r,A.aHX().$3$color$fontSize$letterSpacing(B.l,18,2),B.d_,r),o=A.cD('How to Connect:\n1. Turn on your Salintinig Earphones\n2. Connect your device to "Salintinig Device" via Bluetooth\n3. Tap the button below to connect to the service\n4. On the Bluetooth Pairing popup, select Salinting BLE device, done!',r,r,r,r,A.aHX().$3$color$fontSize$height(B.H,16,1.5),B.c7,r)
 if(this.d)s=B.DP
 else{s=A.axH(r,r,B.k,r,r,r,r,r,r,B.l,r,r,B.Gk,r,r,r,r,r,B.U0,r)
 s=new A.yW(!0,this.gaaL(),r,r,r,s,B.w,r,!1,r,!0,r,new A.Sr(B.Xn,B.Hq,s,r,r),r)}return A.ayA(r,B.n3,A.oC(A.hJ(A.c([q,p,new A.c_(B.Gm,new A.fG(B.Cg,o,r),r),B.zN,s],t.p),B.W,B.hv,B.aM),r,r))}}
